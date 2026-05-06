@@ -26,7 +26,7 @@ Resposta em ~60s: [veja exemplo](examples/example-output-pt.md)
 ### Opção 2: Claude Code
 
 ```bash
-git clone https://github.com/marfin-co/skills-marfin-seo-quickaudit.git ~/.claude/skills/marfin-seo-quickaudit
+git clone https://github.com/marfin-lab/skills-marfin-seo-quickaudit.git ~/.claude/skills/marfin-seo-quickaudit
 ```
 
 E configure o MCP do Rankz no seu `~/.claude/mcp.json`.
